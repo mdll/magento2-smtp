@@ -1,5 +1,5 @@
 {
-    "name": "magewonder/magento2-smtp",
+    "name": "mdll/magento2-smtp",
     "description": "Configure Magento 2 to use custom SMTP server to send email",
     "authors": [
         {
